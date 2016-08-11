@@ -21,9 +21,6 @@
       "web": "http://www.alfajango.com/blog"
     }
   ],
-  "dependencies": {
-    "jquery": "1.6"
-  },
   "bugs": {
     "mail": "support@alfajango.com",
     "web": "https://github.com/alfajango/jquery-dynatable/issues"
